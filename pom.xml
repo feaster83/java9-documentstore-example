@@ -12,6 +12,7 @@
         <module>cli</module>
         <module>document-service</module>
         <module>document-service-dummy</module>
+        <module>document-service-neo4j</module>
     </modules>
 
     <properties>
