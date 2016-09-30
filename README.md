@@ -1,4 +1,4 @@
-# Java9 documentstore example
+# Java9 example
 Example application of Java 9 with Maven and usage of service providing with the ServiceLoader api. 
 
 The CLI module do not have direct access to the concrete implementations.
