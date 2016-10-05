@@ -7,5 +7,18 @@ The CLI module do not have direct access to the concrete implementations.
 
 Execute the following command from the root of the project. Ensure that Java 9 is on the path:
 ```
+./compileAndRun.sh
+```
+
+#### There is also some kind of Maven support. 
+
+Compile code with:
+
+```
+mvn clean compile
+```
+
+and run the application:
+```
 ./run.sh
 ```
