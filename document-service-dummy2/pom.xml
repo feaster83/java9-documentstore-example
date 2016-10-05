@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>document-service-neo4j</artifactId>
+    <artifactId>document-service-dummy2</artifactId>
 
     <build>
-        <sourceDirectory>src/main/docstore.documentservice.neo4j</sourceDirectory>
+        <sourceDirectory>src/main/docstore.documentservice.dummy2</sourceDirectory>
     </build>
 
     <dependencies>
